@@ -5,4 +5,4 @@ const rootReducer = combineReducers({
     user: userReducer
 });
 
-export default userReducer;
+export default rootReducer;
